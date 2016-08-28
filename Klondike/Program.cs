@@ -10,6 +10,9 @@ namespace Klondike
   {
     static void Main(string[] args)
     {
+      //Klondike klondike = new Klondike();
+      //klondike.jugar();
+      new Klondike().jugar();
     }
   }
 }

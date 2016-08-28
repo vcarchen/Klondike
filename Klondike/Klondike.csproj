@@ -43,6 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Baraja.cs" />
+    <Compile Include="Carta.cs" />
+    <Compile Include="Columna.cs" />
+    <Compile Include="Descarte.cs" />
+    <Compile Include="GestorIO.cs" />
+    <Compile Include="Intervalo.cs" />
+    <Compile Include="Klondike.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="Palo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

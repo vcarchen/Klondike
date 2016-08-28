@@ -1,1 +1,6 @@
 C:\Users\Victor\Documents\Visual Studio 2015\Projects\Klondike\Klondike\bin\Debug\Klondike.exe.config
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Klondike\Klondike\obj\Debug\Klondike.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Klondike\Klondike\bin\Debug\Klondike.exe
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Klondike\Klondike\bin\Debug\Klondike.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Klondike\Klondike\obj\Debug\Klondike.exe
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Klondike\Klondike\obj\Debug\Klondike.pdb
