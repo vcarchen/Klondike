@@ -50,6 +50,7 @@
     <Compile Include="GestorIO.cs" />
     <Compile Include="Intervalo.cs" />
     <Compile Include="Klondike.cs" />
+    <Compile Include="Mazo.cs" />
     <Compile Include="Menu.cs" />
     <Compile Include="Palo.cs" />
     <Compile Include="Program.cs" />
